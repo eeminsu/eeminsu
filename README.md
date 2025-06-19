@@ -1,9 +1,41 @@
-# eeminsu 🤟
+<h2 align="left">eeminsu 🤟</h2>
 
-![eeminsu's github stats](https://github-readme-stats.vercel.app/api?username=eeminsu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeminsu&layout=compact&theme=material-palenight)
+---
 
-## ▎🛠 Tech Stack
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+## 🛠 Tech Stack
+
+<p align="center">
+  <!-- 언어/프레임워크 -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-%235A29E4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MyBatis-DB4713?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Netty-FF6F00?style=flat-square"/>
+
+  <!-- 데이터베이스 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Work Experience
+- Backend Developer / mythings (2022.02 ~ 2025.02)
+- Firmware Developer / EdgeCross (2018.10 ~ 2022.01)
+
+---
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eeminsu&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeminsu&layout=compact&langs_count=6" height="150"/>
+</p>
