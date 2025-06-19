@@ -1,7 +1,5 @@
 <h2 align="left">eeminsu 🤟</h2>
 
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -26,13 +24,10 @@
   <img src="https://img.shields.io/badge/SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
----
-
 ## 💼 Work Experience
 - Backend Developer / mythings (2022.02 ~ 2025.02)
 - Firmware Developer / EdgeCross (2018.10 ~ 2022.01)
 
----
 ## 📈 GitHub Stats
 
 <p align="left">
