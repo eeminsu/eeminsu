@@ -28,6 +28,7 @@
 </p>
 
 ## 💼 Work Experience
+- Backend Developer / NHN PAYCO (2025.07 ~ )
 - Backend Developer / mythings (2022.02 ~ 2025.02)
 - Firmware Developer / EdgeCross (2018.10 ~ 2022.01)
 
